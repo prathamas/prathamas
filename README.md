@@ -3,9 +3,9 @@
 
 ---
 
-- 🌱 I’m currently learning: **Spring Boot, Deep Learning, Node.js**
+- 🌱 I’m currently learning: **MERN Stack (MongoDB, Express, React, Node.js)** and **Deep Learning**
 - 🔭 Working on: `Eye Disease Prediction`, `Excel Clone`, `Whiteboard App`
-- 💬 Ask me about: **Java**, **Data Structures**, **Backend Dev**
+- 💬 Ask me about: **Java**, **Data Structures**, **Frontend + Backend Development**
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/pratham-singh-42b943347/)
 - 🧠 DSA Profile: [LeetCode](https://leetcode.com/Pratham_Singh18/)
 
@@ -13,21 +13,14 @@
 
 ### 🛠️ Languages & Tools
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamas&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=prathamas&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ---
 
@@ -39,6 +32,18 @@
 
 ---
 
+### 📊 GitHub Activity (I'm more of a project uploader 😄)
+
+> I usually work on projects locally and upload them once they're complete.  
+> You won’t see daily commits here — but check out my pinned projects to see what I’ve built!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamas&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=prathamas&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+---
+
 ### 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pratham-singh-42b943347/)
@@ -47,4 +52,5 @@
 
 ---
 
-⭐️ *Feel free to explore my projects and connect! Always open to collaboration and learning!*
+⭐️ *Thanks for stopping by! Feel free to explore my projects or connect—I'm always open to learning and collaboration!*
+
