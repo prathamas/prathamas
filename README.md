@@ -4,7 +4,6 @@
 ---
 
 - 🌱 I’m currently learning: **MERN Stack (MongoDB, Express, React, Node.js)** and **Deep Learning**
-- 🔭 Working on: `AIBlogForge`, `Eye Disease Prediction`, `Excel Clone`, `Whiteboard App`
 - 💬 Ask me about: **Java**, **Data Structures**, **Frontend + Backend Development**
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/pratham-singh-42b943347/)
 - 🧠 DSA Profile: [LeetCode](https://leetcode.com/Pratham_Singh18/)
